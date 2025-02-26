@@ -23,8 +23,30 @@ I am assuming to be a junior data analyst working in the marketing analyst team 
 
 ## FASE 1: ASK
 
-### BUSINESS TASK
+### Guiding questions
+● What is the problem you are trying to solve?
 
-Design marketing strategies aimed at converting casual riders into
-annual members based on an understanding of how
-annual members and casual riders use their rental bikes differently.
+The director of marketing believes the company’s future success
+depends on maximizing the number of annual memberships. Therefore, 
+the team wants to understand how casual riders and annual members use Cyclistic bikes differently.
+
+● How can your insights drive business decisions?
+
+From these insights, your team will design a new marketing strategy to convert casual riders into annual
+members. 
+
+## BUSINESS TASK
+
+Convert casual riders to members.
+
+## Analysis Question
+
+How do annual members and casual riders use Cyclistic bikes differently?
+
+## FASE 2: PREPARE
+
+
+
+
+
+
