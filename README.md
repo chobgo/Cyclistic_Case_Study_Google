@@ -45,7 +45,7 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## FASE 2: PREPARE
 
-The project will use the data provided by Google using the following link: https://divvy-tripdata.s3.amazonaws.com/index.html. Motivate International Inc. has made the data available under this [license.](https://www.divvybikes.com/data-license-agreement)
+The project will use the data provided by Google using the following link: https://divvy-tripdata.s3.amazonaws.com/index.html Motivate International Inc. has made the data available under this [license.](https://www.divvybikes.com/data-license-agreement)
 
 
 ### Guiding Questions
