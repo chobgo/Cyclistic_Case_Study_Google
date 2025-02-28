@@ -45,6 +45,40 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## FASE 2: PREPARE
 
+The project will use the data provided by Google using the following link: divvy_tripdata. Motivate International Inc. has made the data available under this license.
+
+
+### Guiding Questions
+
+    Where is your data located?
+
+The data is located 
+
+    How is the data organized?
+
+The data is separated by month, each on it's own csv.
+
+    Are there issues with bias or credibility in this data? Does your data ROCCC?
+
+Bias isn't a problem, the population of the dataset is it's own clients as bike riders. And have full credibility for the same reason. And finally, it's ROCCC because it's reliable, original, comprehensive, current and cited.
+
+    How are you addressing licensing, privacy, security, and accessibility?
+
+The company has their own licence over the dataset. Besides that, the dataset doesn't have any personal information about the riders.
+
+    How did you verify the data’s integrity?
+
+All the files have consistent columns and each column has the correct type of data.
+
+    How does it help you answer your question?
+
+It may have some key insights about the riders and their riding style
+
+    Are there any problems with the data?
+
+It would be good to have some updated information about the bike stations. Also more information about the riders could be useful.
+
+
 
 
 
