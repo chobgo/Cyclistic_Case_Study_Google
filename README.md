@@ -52,7 +52,7 @@ The project will use the data provided by Google using the following link: https
 
     Where is your data located?
 
-The data is located 
+The data is available for download here `<divvy_tripdata>` : <https://divvy-tripdata.s3.amazonaws.com/index.html>
 
     How is the data organized?
 
