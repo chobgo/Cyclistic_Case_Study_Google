@@ -45,34 +45,37 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## FASE 2: PREPARE
 
-
 ### Guiding Questions
 
-    Where is your data located?
+   **Where is your data located?**
 
-The project will use the data provided by Google using the following link: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement)
+The project will use the data provided by Google using the following link: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
 
-    How is the data organized?
+   **How is the data organized?**
 
-The data is separated by month, each on it's own csv.
+The data is organized into 12 CSV files. Each file is structured by year and month. For example, the file named 202004-divvy-tripdata contains information about the various trips taken by the company's customers in April 2020. The available data includes details such as date, trip ID, start station, end station, and whether the customer is a member or a casual rider, among other attributes.
 
-    Are there issues with bias or credibility in this data? Does your data ROCCC?
+In this analysis, I have considered the last 12 months of data, from February 2024 to January 2025.
 
-Bias isn't a problem, the population of the dataset is it's own clients as bike riders. And have full credibility for the same reason. And finally, it's ROCCC because it's reliable, original, comprehensive, current and cited.
+   **Are there issues with bias or credibility in this data? Does your data ROCCC?**
 
-    How are you addressing licensing, privacy, security, and accessibility?
+Regarding the credibility of the data, since it is collected and provided by the company itself—meaning it is first-party data—and considering that this is a case study, I assume that the information is reliable and meets the ROCCC analysis criteria.
 
-The company has their own licence over the dataset. Besides that, the dataset doesn't have any personal information about the riders.
+In other words, it is a reliable source because the data is collected and provided directly by the company. It is original as it comes from the actual usage of the bicycles by the company's customers. It is comprehensive since the data is structured in rows and columns with clear, descriptive names. It is current, as it includes the last 12 months of data, from February 2024 to January 2025. Lastly, it is cited, as it originates from the company itself.
 
-    How did you verify the data’s integrity?
+   **How are you addressing licensing, privacy, security, and accessibility?**
+
+The data belongs to the company and is publicly available under a license. Therefore, there is explicit consent from the company to use this information. Additionally, the data complies with privacy measures by not disclosing any personal information about customers, thereby protecting their identity and sensitive details. The dataset only includes information related to bicycle usage and routes. No sensitive data is included, and all information is fully anonymized.
+
+   **How did you verify the data’s integrity?**
 
 All the files have consistent columns and each column has the correct type of data.
 
-    How does it help you answer your question?
+   **How does it help you answer your question?**
 
 It may have some key insights about the riders and their riding style
 
-    Are there any problems with the data?
+   **Are there any problems with the data?**
 
 It would be good to have some updated information about the bike stations. Also more information about the riders could be useful.
 
