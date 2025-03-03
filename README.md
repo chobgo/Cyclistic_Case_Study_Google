@@ -45,14 +45,12 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## FASE 2: PREPARE
 
-The project will use the data provided by Google using the following link: https://divvy-tripdata.s3.amazonaws.com/index.html Motivate International Inc. has made the data available under this [license.](https://www.divvybikes.com/data-license-agreement)
-
 
 ### Guiding Questions
 
     Where is your data located?
 
-The data is available for download here `<divvy_tripdata>` : <https://divvy-tripdata.s3.amazonaws.com/index.html>
+The project will use the data provided by Google using the following link: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement)
 
     How is the data organized?
 
