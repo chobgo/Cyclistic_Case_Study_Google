@@ -45,39 +45,29 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## FASE 2: PREPARE
 
-### Guiding Questions
-
-   **Where is your data located?**
-
 The project will use the data provided by Google using the following link: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).
-
-   **How is the data organized?**
 
 The data is organized into 12 CSV files. Each file is structured by year and month. For example, the file named 202004-divvy-tripdata contains information about the various trips taken by the company's customers in April 2020. The available data includes details such as date, trip ID, start station, end station, and whether the customer is a member or a casual rider, among other attributes.
 
-In this analysis, I have considered the last 12 months of data, from February 2024 to January 2025.
-
-   **Are there issues with bias or credibility in this data? Does your data ROCCC?**
+In this analysis, I have considered the last 12 months of data, from March 2024 to February 2025.
 
 Regarding the credibility of the data, since it is collected and provided by the company itself—meaning it is first-party data—and considering that this is a case study, I assume that the information is reliable and meets the ROCCC analysis criteria.
 
-In other words, it is a reliable source because the data is collected and provided directly by the company. It is original as it comes from the actual usage of the bicycles by the company's customers. It is comprehensive since the data is structured in rows and columns with clear, descriptive names. It is current, as it includes the last 12 months of data, from February 2024 to January 2025. Lastly, it is cited, as it originates from the company itself.
-
-   **How are you addressing licensing, privacy, security, and accessibility?**
+In other words, it is a reliable source because the data is collected and provided directly by the company. It is original as it comes from the actual usage of the bicycles by the company's customers. It is comprehensive since the data is structured in rows and columns with clear, descriptive names. It is current, as it includes the last 12 months of data, from March 2024 to February 2025. Lastly, it is cited, as it originates from the company itself.
 
 The data belongs to the company and is publicly available under a license. Therefore, there is explicit consent from the company to use this information. Additionally, the data complies with privacy measures by not disclosing any personal information about customers, thereby protecting their identity and sensitive details. The dataset only includes information related to bicycle usage and routes. No sensitive data is included, and all information is fully anonymized.
 
-   **How did you verify the data’s integrity?**
+Regarding data integrity, after reviewing the trip data from February 2025 to March 2024, the data largely meets the characteristics of information integrity. It is accurate and consistent throughout the 12-month evaluation period.
 
-All the files have consistent columns and each column has the correct type of data.
+However, while most integrity characteristics are met, it is important to report a deficiency: missing data in the start and end station columns. This missing information accounts for approximately 16% to 20% across all months.
 
-   **How does it help you answer your question?**
+In terms of reliability, since the data is collected directly by the company, we can assume that it is trustworthy for the purposes of this study.
 
-It may have some key insights about the riders and their riding style
+ This information is relevant as it enables the identification of user behavior patterns over a significant period—one year. Additionally, it is important because it clearly distinguishes trip types and user categories, specifically whether a user is casual or a member. This distinction allows for the segmentation of behavior based on membership type, which directly aligns with the objectives of this analysis.
 
-   **Are there any problems with the data?**
+As mentioned earlier, the data contains missing information, specifically in the start and end station details. Additionally, some trip IDs have significantly larger numbers than the norm, which could indicate a data collection error. However, since this is a case study, the analysis will proceed with the appropriate data cleaning to address these issues.
 
-It would be good to have some updated information about the bike stations. Also more information about the riders could be useful.
+
 
 
 
