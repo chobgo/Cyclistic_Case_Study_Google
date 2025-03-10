@@ -73,57 +73,8 @@ In the processing stage, I will use PostgreSQL as a processing and analysis tool
 
 ## Combining Data
 
-Using the rides data from March 2024 to February 2025, I loaded and renamed each file in PostgreSQL (for example, as march_2024) and generated 12 files. These files were then combined into a single table named 'rides' using the following code to facilitate the data cleaning and analysis process.
+Using the rides data from March 2024 to February 2025, I loaded and renamed each file in PostgreSQL (for example, as march_2024) and generated 12 files. These files were then combined into a single table named 'rides' using the following [code]( to facilitate the data cleaning and analysis process.
 
-<?
-        CREATE TABLE rides (
-    ride_id VARCHAR,
-    rideable_type VARCHAR,
-    started_at TIMESTAMP WITHOUT TIME ZONE,
-    ended_at TIMESTAMP WITHOUT TIME ZONE,
-    start_station_name VARCHAR,
-    start_station_id VARCHAR,
-    end_station_name VARCHAR,
-    end_station_id VARCHAR,
-    start_lat NUMERIC,
-    start_lng NUMERIC,
-    end_lat NUMERIC,
-    end_lng NUMERIC,
-    member_casual VARCHAR
-);
-
-INSERT INTO rides (ride_id, rideable_type, started_at, ended_at, start_station_name, 
-                   start_station_id, end_station_name, end_station_id, start_lat, 
-                   start_lng, end_lat, end_lng, member_casual)
-SELECT * FROM march_2024
-UNION ALL
-SELECT * FROM april_2024
-UNION ALL
-SELECT * FROM may_2024
-UNION ALL
-SELECT * FROM june_2024
-UNION ALL
-SELECT * FROM july_2024
-UNION ALL
-SELECT * FROM august_2024
-UNION ALL
-SELECT * FROM september_2024
-UNION ALL
-SELECT * FROM october_2024
-UNION ALL
-SELECT * FROM november_2024
-UNION ALL
-SELECT * FROM december_2024
-UNION ALL
-SELECT * FROM january_2025
-UNION ALL
-SELECT * FROM february_2025;
-
-SELECT
-  COUNT(*)
-FROM
-  RIDES
-    ?>
 
 
 
