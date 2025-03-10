@@ -81,6 +81,7 @@ The new table rides contain 5,783,100 records.
 
 Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the obtained data
 
+![Image](https://github.com/user-attachments/assets/141187cb-d078-44ab-b800-f28e7c154163)
 
 
 
