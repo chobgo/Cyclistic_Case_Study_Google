@@ -89,7 +89,13 @@ Next, as part of the processing phase and prior to the data cleaning stage, I wi
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/2_null_per_column.jpg?raw=true)
 
-3. 
+More than 1.6 million records contain NULL values in at least one of their columns.
+
+3. As ride_id is our Primary Key and has no null values, we will check it for duplicates
+
+
+
+
 
 
 
