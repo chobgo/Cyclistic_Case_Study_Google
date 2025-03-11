@@ -87,7 +87,9 @@ Next, as part of the processing phase and prior to the data cleaning stage, I wi
 
 2. The following table shows the number of null values in each column.
 
-![]()
+![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/2_null_per_column.jpg?raw=true)
+
+3. 
 
 
 
