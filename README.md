@@ -83,6 +83,8 @@ Next, as part of the processing phase and prior to the data cleaning stage, I wi
 
 1. The following table shows the column names of the resulting table rides and the different data types it contains.
 
+https://github.com/chobgo/Cyclistic_Case_Study_Google/issues/1
+
 
 
 
