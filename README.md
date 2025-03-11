@@ -93,6 +93,8 @@ More than 1.6 million records contain NULL values in at least one of their colum
 
 3. As ride_id is our Primary Key and has no null values, we will check it for duplicates
 
+![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/3_ride_id_duplicates.jpg?raw=true)   
+
 
 
 
