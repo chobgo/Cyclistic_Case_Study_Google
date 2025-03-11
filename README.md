@@ -85,8 +85,9 @@ Next, as part of the processing phase and prior to the data cleaning stage, I wi
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/1_data_type_table.jpg?raw=true)
 
+2. The following table shows the number of null values in each column.
 
-
+![]()
 
 
 
