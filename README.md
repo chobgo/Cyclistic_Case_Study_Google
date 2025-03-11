@@ -101,9 +101,9 @@ There are 211 duplicate values in the ride_id column.
 
 5. asdfadf
 
-![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/3_ride_id_duplicates.jpg?raw=true)
+![]([https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/3_ride_id_duplicates.jpg?raw=true](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/4_rideable_type_table.jpg?raw=true))
 
-![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/3_ride_id_duplicates.jpg?raw=true)  
+![]()  
 
 
 
