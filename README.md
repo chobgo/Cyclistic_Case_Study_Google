@@ -75,13 +75,16 @@ In the processing stage, I will use PostgreSQL as a processing and analysis tool
 
 Using the rides data from March 2024 to February 2025, I loaded and renamed each file in PostgreSQL (for example, as march_2024) and generated 12 files. These files were then combined into a single table named 'rides' using the following [code](Data_Combining_sql) to facilitate the data cleaning and analysis process.
 
-The new table rides contain 5,783,100 records.
+The new table "rides" contain 5,783,100 records.
 
 ## Data Exploration
 
-Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the obtained data
+Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: exploration
 
-![Image](https://github.com/user-attachments/assets/141187cb-d078-44ab-b800-f28e7c154163)
+1. The following table shows the column names of the resulting table rides and the different data types it contains.
+
+
+
 
 
 
