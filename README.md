@@ -81,17 +81,17 @@ The new table "rides" contain 5,783,100 records.
 
 Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: exploration
 
-1. The following table shows the column names of the resulting table rides and the different data types it contains.
+**1. The following table shows the column names of the resulting table rides and the different data types it contains.**
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/1_data_type_table.jpg?raw=true)
 
-2. The following table shows the number of null values in each column.
+**2. The following table shows the number of null values in each column.**
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/2_null_per_column.jpg?raw=true)
 
 More than 1.6 million records contain NULL values in at least one of their columns.
 
-3. ride_id column:
+**3. ride_id column:**
 
 As ride_id is our Primary Key and has no null values, we will check it for duplicates
 
@@ -101,7 +101,7 @@ There are 211 duplicate values in the ride_id column.
 
 All values in the ride_id column have a length of 16 characters.
 
-5. rideable_type column:
+**4. rideable_type column:**
 
 There are three different types of values in the rideable_type column, which indicate the types of rides the company offers. 
 
@@ -110,7 +110,7 @@ There are three different types of values in the rideable_type column, which ind
 There are no NULL values.
 
 
-6. started_at and ended_at columns:
+**5. started_at and ended_at columns:**
 
 Both started_at and ended_at columns have a timestamp without time zone format. And indicates the date and time at where the different rides started and ended. The format is YYYY-MM-DD hh:mm:ss
 
@@ -122,26 +122,28 @@ There are 202 records where the started_at values are greater than the ended_at 
 
 There are 7,028 records with a ride length greater than 24 hours, and also will be removed during the cleaning process.
 
-7. start_sation_name, start_station_id, end_station_name, end_station_id
+**6. start_sation_name, start_station_id, end_station_name, end_station_id**
 
 There are 1,080,148 null values in start_station_name and start_station_id
 
 There are 1,110,075 null values in end_station_name and end_station_id
 
-8. start_lat, start_lng, end_lat, end_lng
+**7. start_lat, start_lng, end_lat, end_lng**
 
 There are 6,744 total null values in the 4 columns.
 
-9. member_casual column
+**8. member_casual column**
 
 There are 2 diferent types of values for the member_casual column: member and casual. No null values in this column.
+
+![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/5_types_member_casual.jpg?raw=true)  
 
 ## FASE 4: DATA CLEANING
 
 
 
 
-![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/5_types_member_casual.jpg?raw=true)  
+
 
 
 
