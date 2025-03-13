@@ -99,11 +99,17 @@ There are 211 duplicate values in the ride_id column.
 
 4. All values in the ride_id column have a length of 16 characters.
 
-5. asdfadf
+5. There are three different types of values in the rideable_type column, which indicate the types of rides the company offers. Additionally, there are only two types of customers based on the values in the member_casual column: "member" and "casual."
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/4_rideable_type_table.jpg?raw=true)
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/5_types_member_casual.jpg?raw=true)  
+
+6. Both started_at and ended_at columns have a timestamp without time zone format. And indicates the date and time at where the different rides started and ended. The format is YYYY-MM-DD hh:mm:ss
+
+  * 
+
+
 
 
 
