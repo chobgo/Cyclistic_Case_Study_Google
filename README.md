@@ -139,6 +139,8 @@ There are 2 diferent types of values for the member_casual column: member and ca
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/5_types_member_casual.jpg?raw=true)  
 
 ## FASE 4: DATA CLEANING
+------------------------
+
 
 
 
