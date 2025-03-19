@@ -139,7 +139,19 @@ There are 2 diferent types of values for the member_casual column: member and ca
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/5_types_member_casual.jpg?raw=true)  
 
 ## FASE 4: DATA CLEANING
-=============
+
+1. All recors with null values have been eliminated, in total: 1,662,526.
+2. A total of 121 duplicate records from the ride_id column have been removed.
+3. A total of 3,997 records have been removed due to identical started_at, start_station_name, ended_at, and end_station_name, as they were considered errors.
+4. 38 records were removed where the started_at values were greater than the ended_at values, which is not logically possible.
+5. 35,459 records were removed where the trip duration was greater than 24 hours or shorter than 1 minute.
+
+1,702,141 total recors where removed
+
+New rides_clean table left with 4,080,959 records.
+
+## FASE 5: ANALYSIS.
+
 
 
 
