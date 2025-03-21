@@ -140,6 +140,8 @@ There are 2 diferent types of values for the member_casual column: member and ca
 
 ## FASE 4: DATA CLEANING
 
+SQL QUERY: DATA CLEANING
+
 1. All recors with null values have been eliminated, in total: 1,662,526.
 2. A total of 121 duplicate records from the ride_id column have been removed.
 3. A total of 3,997 records have been removed due to identical started_at, start_station_name, ended_at, and end_station_name, as they were considered errors.
@@ -151,6 +153,8 @@ There are 2 diferent types of values for the member_casual column: member and ca
 New rides_clean table left with 4,080,959 records.
 
 ## FASE 5: ANALYSIS.
+
+
 
 
 
