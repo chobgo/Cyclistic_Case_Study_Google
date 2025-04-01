@@ -154,6 +154,8 @@ New rides_clean table left with 4,080,959 records.
 
 ## FASE 5: ANALYSIS.
 
+ElementById('viz1743520707447');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='727px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 
 
 
