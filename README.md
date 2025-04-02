@@ -184,7 +184,57 @@ Other significant differences in bike usage between members and casual riders ca
 | Rides per hour | Peaks at 8 am (187,269) and 5 pm (282,267) lowest at 3 am (4,100) | Peaks at 8 am (53,325) and 5 pm (143,151) lowest at 3 am (4,683) |Members dominate rush hours (5 PM peak: 282K rides) with 2X stronger commute spikes than casual riders, whose flatter daytime patterns suggest flexible leisure use|
 | Rides by bike type | 1.6 millions classic bik rides and 0.9 millions electric bikes      | 0.9 millions classic bik rides and 0.5 millions electric bikes | Both members and casual riders choose classic bikes twice as often as electric bikes, but members take more total rides overall|
 
+## FASE 5: ACT
 
+1. Target Casual Riders for Membership Conversion
+
+    Why: Casual riders show strong weekend/leisure patterns (2X longer rides, tourist-area usage).
+
+    Action: Launch "Weekend Commuter" plans:
+
+        Discounted monthly memberships valid only Sat-Sun
+
+        Partner with tourist attractions (Navy Pier, Magnificent Mile) for promo codes
+
+2. Optimize Bike Distribution
+
+    Why: Members dominate weekdays (AM/PM peaks), casual riders spike weekends.
+
+    Action:
+
+        Weekdays: Prioritize electric bikes near business districts (members’ 5 PM peak = 282K rides)
+
+        Weekends: Boost classic bikes at tourist hubs (casuals’ Sat peak = 313K rides)
+
+3. Weather-Proof Revenue
+
+    Why: January ridership drops 74% (members) and 92% (casuals).
+
+    Action:
+
+        Offer "Winter Warrior" rewards for cold-weather member rides
+
+        Install covered bike docks at top tourist stations
+
+4. Capitalize on Bike Type Preferences
+
+    Why: Both groups prefer classic bikes (64% of rides), but electric bikes have growth potential.
+
+    Action:
+
+        Test "Electric Weekday Pass" for members (faster commutes)
+
+        Promote e-bikes to casual riders as "Tourist Explorers" (higher per-ride revenue)
+
+5. Data-Driven Expansion
+
+    Why: Top stations (Streeter Dr & Grand Ave) serve tourists.
+
+    Action:
+
+        Add stations near under-served tourist attractions
+
+        Use August-Sept peaks (319K member rides) to test new pricing tiers
 
 
 
