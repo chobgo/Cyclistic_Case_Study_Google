@@ -179,7 +179,7 @@ Other significant differences in bike usage between members and casual riders ca
 | :------------: |:---------------:|:------:|:------:|
 | Number of Rides      | 2,595,127 | 1,485,832 | Nearly two-thirds (63%) of Cyclistic's ridership comes from members, confirming the subscription model's stability. However, the 37% casual rider segment represents a strategic opportunity for membership convertion programs |
 | Average Ride length   |  12 minutes    |   24 minutes |  Casual riders' trips are twice as long as members' (24 vs. 12 minutes), strongly suggesting distinct usage patterns, Members: Likely short, efficient trips for commuting (aligns with weekday peaks), Casual Riders: Leisurely tourism/recreation use (consistent with weekend/holiday patterns and tourist-area station dominance) | 
-| zebra stripes | are neat        |    $1 |  $1 |
+| Rides per month | Peaks in august-september (319,053), lowest in january (83,616)    |   Peaks in august-september (214,249), lowest in january (16,938) | Ridership follows predictable seasonal patterns, but with critical differences: while both groups peak in late summer, casual riders virtually disappear in winter (↓92% vs. members' ↓74%). This 5x weather sensitivity confirms tourism-driven casual demand versus members' commute-focused resilience. |
 | zebra stripes | are neat        |    $1 |  $1 |
 | zebra stripes | are neat        |    $1 |  $1 |
 
