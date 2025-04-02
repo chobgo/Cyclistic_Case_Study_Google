@@ -175,12 +175,12 @@ Geospatial analysis pinpoints tourism hotspots as the epicenters of casual rider
 Other significant differences in bike usage between members and casual riders can be summarized as follows:
 
 
-Member  | Casual
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-
-
+                     Member  | Casual
+------------- |------------- | -------------
+Content Cell  |Content Cell  | Content Cell
+               Content Cell  | Content Cell 
+               Content Cell  | Content Cell 
+               Content Cell  | Content Cell 
 
 
 
