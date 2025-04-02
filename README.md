@@ -160,7 +160,7 @@ The data is stored appropriately and is now prepared for analysis. I queried mul
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
 
 
-![]  
+![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/Cyclistic.png )
 
 
 
