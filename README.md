@@ -181,8 +181,8 @@ Other significant differences in bike usage between members and casual riders ca
 | Average Ride length   |  12 minutes    |   24 minutes |  Casual riders' trips are twice as long as members' (24 vs. 12 minutes), strongly suggesting distinct usage patterns, Members: Likely short, efficient trips for commuting (aligns with weekday peaks), Casual Riders: Leisurely tourism/recreation use (consistent with weekend/holiday patterns and tourist-area station dominance) | 
 | Rides per month | Peaks in august-september with 319,053 rides, lowest in january with 83,616 rides    |   Peaks in august-september with 214,249, lowest in january with  16,938 rides | Ridership follows predictable seasonal patterns, but with critical differences: while both groups peak in late summer, casual riders virtually disappear in winter (↓92% vs. members' ↓74%). This 5x weather sensitivity confirms tourism-driven casual demand versus members' commute-focused resilience. |
 | Rides per day of the week |  Peaks in wednesday with 427,313 rides, lowest in sunday with 286,658 rides   |    Peaks in saturdat with 313,234 rides, lowest in tuesday with 157,474 rides | Member ridership peaks midweek (427K rides Wednesday) for commuting, while casual riders surge on weekends (313K rides Saturday) for leisure, revealing distinct usage patterns requiring tailored operational strategies.  |
+| Rides per hour | Peaks at 8 am (187,269) and 5 pm (282,267) lowest at 3 am (4,100) | Peaks at 8 am (53,325) and 5 pm (143,151) lowest at 3 am (4,683) |Members dominate rush hours (5 PM peak: 282K rides) with 2X stronger commute spikes than casual riders, whose flatter daytime patterns suggest flexible leisure use|
 | zebra stripes | are neat        |    $1 |  $1 |
-
 
 
 
