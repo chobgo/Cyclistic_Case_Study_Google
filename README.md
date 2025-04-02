@@ -178,11 +178,7 @@ Other significant differences in bike usage between members and casual riders ca
 |    | Member  | Casual | Comments| 
 | :------------: |:---------------:|:------:|:------:|
 | Number of Rides      | 2,595,127 | 1,485,832 | Nearly two-thirds (63%) of Cyclistic's ridership comes from members, confirming the subscription model's stability. However, the 37% casual rider segment represents a strategic opportunity for membership convertion programs |
-| Average Ride length   |  12 minutes    |   24 minutes |  Casual riders' trips are twice as long as members' (24 vs. 12 minutes), strongly suggesting distinct usage patterns:
-
-    Members: Likely short, efficient trips for commuting (aligns with weekday peaks)
-
-    Casual Riders: Leisurely tourism/recreation use (consistent with weekend/holiday patterns and tourist-area station dominance) |
+| Average Ride length   |  12 minutes    |   24 minutes |  Casual riders' trips are twice as long as members' (24 vs. 12 minutes), strongly suggesting distinct usage patterns, Members: Likely short, efficient trips for commuting (aligns with weekday peaks), Casual Riders: Leisurely tourism/recreation use (consistent with weekend/holiday patterns and tourist-area station dominance) | 
 | zebra stripes | are neat        |    $1 |  $1 |
 | zebra stripes | are neat        |    $1 |  $1 |
 | zebra stripes | are neat        |    $1 |  $1 |
