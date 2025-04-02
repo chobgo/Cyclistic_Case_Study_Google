@@ -154,19 +154,31 @@ New rides_clean table left with 4,080,959 records.
 
 ## FASE 5: ANALYSIS.
 
-SQL Query: Data Analysis
+SQL Query: [Data Analysis](  )
 
 Data Visualization: [Tableau](https://public.tableau.com/app/profile/roberto.gonz.lez2082/viz/280325-cyclistic-tableau/Cyclistic).
 
-The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.
+After analyzing the data using SQL code and creating relevant visualizations in Tableau, I present the resulting dashboard below, which highlights the key findings of the analysis. 
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
 
 
 ![](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/Cyclistic.png )
 
+### Key Insights
+
+The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
+
+Analysis of over 4 million Cyclistic bike rides (March 2024 - February 2025) reveals a fundamental behavioral distinction between member and casual riders: usage purpose. The data demonstrates that casual riders primarily use bikes for tourism and leisure activities, while members predominantly utilize them for work-related commuting.
+
+Geospatial analysis pinpoints tourism hotspots as the epicenters of casual rider activity, with station usage volumes directly mirroring Chicago's attraction density. The Streeter Dr hub alone accounts for 3% of all casual rider trips, strategically positioned to serve visitors to Navy Pier and downtown landmarks.
+
+Other significant differences in bike usage between members and casual riders can be summarized as follows:
 
 
-
+                |:Member:| :Casual:|:Comment:|
+| Ride Lenght |  | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 
