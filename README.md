@@ -184,7 +184,7 @@ Other significant differences in bike usage between members and casual riders ca
 | Rides per hour | Peaks at 8 am (187,269) and 5 pm (282,267) lowest at 3 am (4,100) | Peaks at 8 am (53,325) and 5 pm (143,151) lowest at 3 am (4,683) |Members dominate rush hours (5 PM peak: 282K rides) with 2X stronger commute spikes than casual riders, whose flatter daytime patterns suggest flexible leisure use|
 | Rides by bike type | 1.6 millions classic bik rides and 0.9 millions electric bikes      | 0.9 millions classic bik rides and 0.5 millions electric bikes | Both members and casual riders choose classic bikes twice as often as electric bikes, but members take more total rides overall|
 
-## FASE 5: ACT
+## FASE 6: ACT
 
 1. Target Casual Riders for Membership Conversion
 
