@@ -175,7 +175,7 @@ Geospatial analysis pinpoints tourism hotspots as the epicenters of casual rider
 Other significant differences in bike usage between members and casual riders can be summarized as follows:
 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+|    | Center Aligned  | Right Aligned |
 | :------------: |:---------------:|:------:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
