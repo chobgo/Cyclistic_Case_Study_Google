@@ -175,9 +175,9 @@ Geospatial analysis pinpoints tourism hotspots as the epicenters of casual rider
 Other significant differences in bike usage between members and casual riders can be summarized as follows:
 
 
-|    | Center Aligned  | Right Aligned |
+|    | Member  | Casual | 
 | :------------: |:---------------:|:------:|
-| col 3 is      | some wordy text | $1600 |
+| Number of Rides      | 2,595,127 | 1,485,832 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
