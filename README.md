@@ -177,7 +177,7 @@ Other significant differences in bike usage between members and casual riders ca
 
 |    | Member  | Casual | Comments| 
 | :------------: |:---------------:|:------:|:------:|
-| Number of Rides      | 2,595,127 | 1,485,832 | 63% of all rides are members type customers |
+| Number of Rides      | 2,595,127 | 1,485,832 | Nearly two-thirds (63%) of Cyclistic's ridership comes from members, confirming the subscription model's stability. However, the 37% casual rider segment represents a strategic opportunity for membership convertion programs |
 | col 2 is      | centered        |   $12 |  $12 |
 | zebra stripes | are neat        |    $1 |  $1 |
 
