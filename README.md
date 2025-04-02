@@ -154,7 +154,13 @@ New rides_clean table left with 4,080,959 records.
 
 ## FASE 5: ANALYSIS.
 
-ElementById('viz1743520707447');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='727px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+SQL Query: Data Analysis
+Data Visualization: Tableau
+The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.
+The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
+
+
+![]  
 
 
 
