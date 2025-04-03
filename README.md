@@ -140,7 +140,7 @@ There are 2 diferent types of values for the member_casual column: member and ca
 
 ## FASE 4: DATA CLEANING
 
-SQL Query: [Data Cleaning](  )
+SQL Query: [Data Cleaning](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/3_sql_cyclistic_cleaning.sql  )
 
 1. All recors with null values have been eliminated, in total: 1,662,526.
 2. A total of 121 duplicate records from the ride_id column have been removed.
