@@ -79,7 +79,7 @@ The new table "rides" contain 5,783,100 records.
 
 ## Data Exploration
 
-Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: [Exploration]( )
+Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: [Exploration](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/2.sql_cyclistic_exploration.sql )
 
 **1. The following table shows the column names of the resulting table rides and the different data types it contains.**
 
