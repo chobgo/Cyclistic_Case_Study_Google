@@ -193,9 +193,9 @@ Other significant differences in bike usage between members and casual riders ca
    * Partner with tourist attractions (Navy Pier, Magnificent Mile) for promo codes
 
  2. Weather-Proof Plans
-   * Modify the current membership plans to include significant discounts for bicycle use during the months of December, January, and February.
-   * Create new membership plans for bicycle use exclusively from March to November. These plans should be more affordable than those that cover the entire year.
-   * Install covered bike docks at top tourist stations
+    * Modify the current membership plans to include significant discounts for bicycle use during the months of December, January, and February.
+    * Create new membership plans for bicycle use exclusively from March to November. These plans should be more affordable than those that cover the entire year.
+    * Install covered bike docks at top tourist stations
 
 3. Capitalize on Bike Type Preferences
    * Test "Electric Weekday Pass" for members (faster commutes)
