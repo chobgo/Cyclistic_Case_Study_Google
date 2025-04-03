@@ -187,39 +187,26 @@ Other significant differences in bike usage between members and casual riders ca
 ## FASE 6: ACT
 
 1. Target Casual Riders for Membership Conversion.
-   * Identify and prioritize stations with the highest number of casual rides that, due to their geographical characteristics, do not have or are not near recognizable tourist destinations. Then, intensify marketing       efforts by promoting membership plans. Examples of this stations are stations like Damen Ave and Pierce Ave, Ashland Ave and Division St, University Ave and 57th St.
-   * Create membership plans based on the number of rides rather than unlimited usage. These plans can include special pricing for weekends, peak hours, summer months, and other options tailored to the        characteristics of casual use.
+   * Identify and prioritize stations with the highest number of casual rides that, due to their geographical characteristics, do not have or are not near recognizable tourist destinations. Then, intensify marketing       efforts by promoting membership plans. Examples of this stations are stations like Damen Ave and Pierce Ave, Ashland Ave and Division St, University Ave and 57th St among others.
+   * Create membership plans with a limited number of rides instead of unlimited access. These plans can offer special pricing for weekends, peak hours, summer months, and other periods that align with casual usage        patterns.
    * Discounted monthly membership valid only Sat-Sun
    * Partner with tourist attractions (Navy Pier, Magnificent Mile) for promo codes
 
  2. Weather-Proof Plans
    * Modify the current membership plans to include significant discounts for bicycle use during the months of December, January, and February.
    * Create new membership plans for bicycle use exclusively from March to November. These plans should be more affordable than those that cover the entire year.
+   *  Install covered bike docks at top tourist stations
 
-        Install covered bike docks at top tourist stations
-         Special plans or offerings considering winter usage/conditions.
+3. Capitalize on Bike Type Preferences
 
-6. Capitalize on Bike Type Preferences
+   * Test "Electric Weekday Pass" for members (faster commutes)
+   * Promote e-bikes to casual riders as "Tourist Explorers"
 
-    Why: Both groups prefer classic bikes (64% of rides), but electric bikes have growth potential.
+4. Data-Driven Expansion
 
-    Action:
+   * Add stations near under-served tourist attractions
+   * Use August-Sept peaks (319K member rides) to test new pricing tiers
 
-        Test "Electric Weekday Pass" for members (faster commutes)
-
-        Promote e-bikes to casual riders as "Tourist Explorers" (higher per-ride revenue)
-
-7. Data-Driven Expansion
-
-    Why: Top stations (Streeter Dr & Grand Ave) serve tourists.
-
-    Action:
-
-        Add stations near under-served tourist attractions
-
-        Use August-Sept peaks (319K member rides) to test new pricing tiers
-
-Crear planes de membresia basados en cantidad de rides y no ilimitados, puede incluir precios especiales en fines de semana, horas pico, meses de verano etc. adecuados a las caracteristicas mencioadas de uso casual  
 
 
 
