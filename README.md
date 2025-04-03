@@ -79,7 +79,7 @@ The new table "rides" contain 5,783,100 records.
 
 ## Data Exploration
 
-Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: exploration
+Next, as part of the processing phase and prior to the data cleaning stage, I will make some brief observations about the data. The SQL query used: [Exploration](  )
 
 **1. The following table shows the column names of the resulting table rides and the different data types it contains.**
 
@@ -140,7 +140,7 @@ There are 2 diferent types of values for the member_casual column: member and ca
 
 ## FASE 4: DATA CLEANING
 
-SQL QUERY: DATA CLEANING
+SQL Query: [Data Cleaning](  )
 
 1. All recors with null values have been eliminated, in total: 1,662,526.
 2. A total of 121 duplicate records from the ride_id column have been removed.
