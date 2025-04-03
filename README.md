@@ -154,7 +154,7 @@ New rides_clean table left with 4,080,959 records.
 
 ## FASE 5: ANALYSIS.
 
-SQL Query: [Data Analysis](  )
+SQL Query: [Data Analysis](https://github.com/chobgo/Cyclistic_Case_Study_Google/blob/main/4_sql_cyclistic_analysis.sql  )
 
 Data Visualization: [Tableau](https://public.tableau.com/app/profile/roberto.gonz.lez2082/viz/280325-cyclistic-tableau/Cyclistic).
 
