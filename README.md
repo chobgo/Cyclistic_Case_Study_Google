@@ -195,15 +195,13 @@ Other significant differences in bike usage between members and casual riders ca
  2. Weather-Proof Plans
    * Modify the current membership plans to include significant discounts for bicycle use during the months of December, January, and February.
    * Create new membership plans for bicycle use exclusively from March to November. These plans should be more affordable than those that cover the entire year.
-   *  Install covered bike docks at top tourist stations
+   * Install covered bike docks at top tourist stations
 
 3. Capitalize on Bike Type Preferences
-
    * Test "Electric Weekday Pass" for members (faster commutes)
    * Promote e-bikes to casual riders as "Tourist Explorers"
 
 4. Data-Driven Expansion
-
    * Add stations near under-served tourist attractions
    * Use August-Sept peaks (319K member rides) to test new pricing tiers
 
